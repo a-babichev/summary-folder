@@ -1,0 +1,7 @@
+dotenv==0.9.9
+requests
+python-dotenv
+pytesseract
+Pillow
+pdfplumber
+pdf2image
